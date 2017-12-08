@@ -151,3 +151,5 @@ Soru 30
 ---------
 1 ile 50 arası tamsayıları her satırda 6 sayı olmak şartıyla ekrana yazdıran C programını yazınız.
 <br/> `NOT: While döngüsü ile yapınız.`
+<br/><br/>
+`Hata,görüş ve yardım için iletişim: tamer.erdogaan@gmail.com`
